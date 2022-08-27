@@ -1,0 +1,100 @@
+@charset "UTF-8";
+.box1{width: 100%;
+      height:60px;
+      background-color:#ac04fb;
+      font-size:32px;
+      font-family:'Playfair Display', serif;
+      color:white;
+      padding-top:20px;
+      padding-left:60px;
+      position:fixed;
+      left:0;
+      top:0;
+      z-index: 9999;
+}
+.image1{
+    margin-top: 90px;
+    background-image:url(IMG_0548.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:1072px;
+    background-position: center;
+    height:540px;
+    font-size :80px;
+    font-family:'Playfair Display', serif;
+    color : white;
+    font-weight:800;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+}
+
+
+
+.box2{width:auto;
+    height:40px;
+    background-color: #d61bf4;   
+}
+
+    .box3{width:auto;
+      height:340px;
+      font-size:18px;
+      font-family:'Playfair Display', serif;
+      color:#ac04fb;
+      background-color:rgba(112,5,248,0.15);
+      text-align:center;
+      padding-top:20px;
+}
+.line1{line-height:2.0}
+.line2{line-height:2.0}
+.line3{line-height:2.0}
+.line4{line-height:2.0}
+.line6{line-height:1.5;
+       padding-top: 20px;
+}
+
+.box4{width:auto;
+    height:40px;
+    background-color: #d61bf4;
+    }
+
+.box5{height:144px;
+    color:#ac04fb;
+    font-family:'Playfair Display', serif;
+    font-size:18px;
+    text-align:center;
+    margin-top: -23px;
+    
+    }
+
+.image2{
+    background-image: url(IMG_6460.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:810px; 
+    font-size :132px;
+    text-decoration:underline;
+    font-style: italic;
+    color : white;
+    font-weight:800;
+    letter-spacing: 8px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:center;
+}
+.box6{width:auto;
+    height:40px;
+    background-color: #d61bf4;
+    margin-top: -12px;
+}
+.footer{width:auto;
+    height:40px;
+    background-color: #ac04fb;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+}
